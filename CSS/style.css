@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+f.form-control{
+	padding: 8px; margin-bottom: 10px
+
+}
+.nut{
+	padding: 10px 20px;background-color: orange; color:white;border: oranger; border-radius: 20px;cursor: pointer}
+.nut:hover{
+	background-color: blue}
+.nut-nhap{
+	padding: 10px 20px;background-color: green;color: white;border:green;border-radius: 20px;cusor: pointer}
+.nut-nhap:hover{
+	background-color: red
+}
+.menu a:hover{
+	color: #F73B3E
+}
+/*phan main*/
+main{
+	width: 100%; min-height: 500px;clear: both
+}
+.w-25{
+	width: 25%;padding: 15px;float: left
+}
+.vien{
+ width: 100%; min-height: 200px;border: 1px solid blue;
+	dorder-radius: 10px; padding: 10px; text-align: center;margin-top: 30px; margin-bottom: 30px
+}
+.bo-goc{
+	border-radius: 10px
+}
+.tour{
+	color: #2C23F5; font-size: 19px
+}
+.gia{
+	color: #F51619; font-weight: bold
+}
+footer{
+	width: 100%;height: 40px;background-color: #F99F35;clear: both; text-aligh: center;color: white;line-height: 40px
+}
+
